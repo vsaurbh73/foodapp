@@ -150,17 +150,7 @@ const Header = () => {
               position: "relative",
             }}
           >
-            {/* <i
-              className="fas fa-close smallclose"
-              onClick={handleClose}
-              style={{
-                position: "absolute",
-                top: 9,
-                right: 10,
-                fontSize: 20,
-                cursor: "pointer",
-              }}
-            ></i> */}
+            
             <p style={{ fontSize: 18 }}>Your Cart is empty</p>
           </div>
         )}

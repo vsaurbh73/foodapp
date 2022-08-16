@@ -55,7 +55,7 @@ const remove = (item)=>{
   return (
     <>
       <div className="container mt-2">
-        <h2 className='text-center'>Iteams Details Page
+        <h2 className='text-center'>Items Details Page
         </h2>
 
         <section className='container mt-3'>
